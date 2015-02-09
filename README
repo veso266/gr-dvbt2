@@ -51,6 +51,13 @@ VV015-8KFFT, VV016-256QAM34, VV018-MISO, VV019-NOROT and VV034-DTG016
 profiles. The VV003-CR23 profile is the current HD broadcast mode
 (32K/256QAM at 40.2 Mbps or Ofcom Mode 7) in the UK.
 
+Here's the flow for Ofcom Mode 6 (44.8 Mbps in an 8 MHz channel) in gnuradio-companion.
+http://shrani.si/f/m/uM/4HsrmTcN/dvbt2vv016.png
+
+
+MISO flow.
+http://shrani.si/f/h/Nl/3HuywH9U/dvbt2miso2.png
+
 Test streams for the VV003-CR23, VV009-4KFFT and VV018-MISO profiles
 with an 8 MHz channel are available.
 
